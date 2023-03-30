@@ -1,0 +1,36 @@
+{
+  "bikes": [
+    {
+      "ObjectId": "ceb4fd3f-db93-4114-8b45-eff320dff451",
+      "bikeId": 1,
+      "bikeName": "Shine",
+      "bikeBrand": "Honda",
+      "bikePrice": 70000,
+      "bikeColour": "Black"
+    },
+    {
+      "ObjectId": "fb9478f3-9910-48a0-b304-d2ddae79d52a",
+      "bikeId": 2,
+      "bikeName": "Splendor",
+      "bikeBrand": "Hero",
+      "bikePrice": 80000,
+      "bikeColour": "Blue"
+    },
+    {
+      "ObjectId": "6ac012fa-0075-4607-8850-2f9de5f61a29",
+      "bikeId": 3,
+      "bikeName": "MT 15",
+      "bikeBrand": "Yamaha",
+      "bikePrice": 160000,
+      "bikeColour": "Grey"
+    },
+    {
+      "ObjectId": "58906de4-2968-4c0b-b29e-7f9733ea19de",
+      "bikeId": 4,
+      "bikeName": "R15",
+      "bikeBrand": "Yamaha",
+      "bikePrice": 150000,
+      "bikeColour": "Blue"
+    }
+  ]
+}
