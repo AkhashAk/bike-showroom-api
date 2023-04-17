@@ -1,7 +1,4 @@
-const mongoose = require("mongoose")
 const Bike = require("./bikeModel")
-const DB = require("./DB");
-var ObjectId = require("mongodb").ObjectID;
 
 const getAllBikes = async () => {
   try {
